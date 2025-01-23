@@ -13,7 +13,6 @@ This project is focused on predicting the outcome of NBA games, specifically whe
 - [How to Run](#how-to-run)
 - [Visualizations](#visualizations)
 - [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
