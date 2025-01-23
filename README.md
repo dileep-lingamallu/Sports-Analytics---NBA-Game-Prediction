@@ -158,11 +158,3 @@ Basketball games, especially NBA games, are highly competitive and influenced by
 
 ---
 
-## Author
-- **Your Name**
-- Connect with me:
-  - [GitHub](https://github.com/your-username)
-  - [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
